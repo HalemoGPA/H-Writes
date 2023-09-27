@@ -81,6 +81,10 @@ Desktop.ini
 *.vc.db
 *.vc.VC.opendb
 
-#ignore bin & obj directories
+# Ignore bin & obj directories
 [Bb]in/
 [Oo]bj/
+
+# Ignore vscode directory
+.vscode/
+.vs/
