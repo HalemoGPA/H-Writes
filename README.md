@@ -1,7 +1,15 @@
 # H-Writes
 # Typing Sound Enhanced Text Input App
 
-This repository contains the source code for a unique and engaging text input application that provides an auditory typing experience. The application enhances the traditional text input by incorporating sound effects corresponding to each keystroke, creating an immersive and interactive user interface.
+This repository contains the source code for a unique and engaging text input application that provides an auditory typing experience. The application enhances the traditional text input by incorporating sound effects corresponding to each keystroke, creating an immersive and interactive user interface.   
+  
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/release/HalemoGPA/H-Writes.svg)](https://github.com/HalemoGPA/H-Writes/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/HalemoGPA/H-Writes/total.svg)](https://github.com/HalemoGPA/H-Writes/releases)
+[![GitHub issues](https://img.shields.io/github/issues/HalemoGPA/H-Writes.svg)](https://github.com/HalemoGPA/H-Writes/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/HalemoGPA/H-Writes.svg)](https://github.com/HalemoGPA/H-Writes/pulls)
+
+
 
 ## Features
 
